@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">Hi! My name is Federico, and I'm Full Stack Javascript developer 🚀</div>
+### <div align="center">Hi! My name is Federico, and I'm a fullstack Javascript developer 🚀</div>
 
 <div align="center">
 <a href="https://linkedin.com/in/fededg" target="_blank">

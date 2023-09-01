@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning Next.js and Astro
-- ⚡ Fun fact: I keep using "master" instead of "main"
+- ⚡ Fun fact: 80% of my body is 🍕
   <br/>
 
 <table><tr><td valign="top" width="33%">

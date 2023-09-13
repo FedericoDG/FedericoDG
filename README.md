@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://nazgul.com.ar/images/fg.png" align="center" style="width: 552px" />
-</div>
-
-<br/>
-
-### <div align="center">Hi! My name is Federico, and I'm a fullstack Javascript developer 🚀</div>
+# <div align="center">Hi! My name is Federico, and I'm a fullstack Javascript developer 🚀</div>
 
 <div align="center">
 <a href="https://linkedin.com/in/fededg" target="_blank">
@@ -17,8 +11,8 @@
 
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning Next.js and Astro
-- ⚡ Fun fact: 80% of my body is 🍕
-  <br/>
+- ⚡ Fun fact: 80% of my body is 🧉
+<br/>
 
 <table><tr><td valign="top" width="33%">
 
